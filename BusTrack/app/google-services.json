@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989990585462",
+    "firebase_url": "https://bustrack-274315.firebaseio.com",
+    "project_id": "bustrack-274315",
+    "storage_bucket": "bustrack-274315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989990585462:android:b1a38bf34ee70efa754b57",
+        "android_client_info": {
+          "package_name": "com.example.suman.bustrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989990585462-nhg943eqgenaspt6vsstemqn17l4v81c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCO40wZaPRpcRM6nqtd-bQvw_6CGBe34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989990585462-nhg943eqgenaspt6vsstemqn17l4v81c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
